@@ -1,0 +1,30 @@
+{
+  "version": 2,
+  "dgSpecHash": "nehMLuO5mqKXpohAZY5bqPyyPGszn1W+0kvQN7MKHRbC8L/zzdHLI5s8S6mGPUDD2XFudKSsOkL6e7E0iKPX/Q==",
+  "success": true,
+  "projectFilePath": "/home/rafael/source/prometheusPoc/prometheusPoc.csproj",
+  "expectedPackageFiles": [
+    "/home/rafael/.nuget/packages/microsoft.aspnetcore.authentication.jwtbearer/5.0.1/microsoft.aspnetcore.authentication.jwtbearer.5.0.1.nupkg.sha512",
+    "/home/rafael/.nuget/packages/microsoft.aspnetcore.authentication.openidconnect/5.0.1/microsoft.aspnetcore.authentication.openidconnect.5.0.1.nupkg.sha512",
+    "/home/rafael/.nuget/packages/microsoft.csharp/4.5.0/microsoft.csharp.4.5.0.nupkg.sha512",
+    "/home/rafael/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/home/rafael/.nuget/packages/microsoft.extensions.dependencyinjection/5.0.1/microsoft.extensions.dependencyinjection.5.0.1.nupkg.sha512",
+    "/home/rafael/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/5.0.0/microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "/home/rafael/.nuget/packages/microsoft.identitymodel.jsonwebtokens/6.7.1/microsoft.identitymodel.jsonwebtokens.6.7.1.nupkg.sha512",
+    "/home/rafael/.nuget/packages/microsoft.identitymodel.logging/6.7.1/microsoft.identitymodel.logging.6.7.1.nupkg.sha512",
+    "/home/rafael/.nuget/packages/microsoft.identitymodel.protocols/6.7.1/microsoft.identitymodel.protocols.6.7.1.nupkg.sha512",
+    "/home/rafael/.nuget/packages/microsoft.identitymodel.protocols.openidconnect/6.7.1/microsoft.identitymodel.protocols.openidconnect.6.7.1.nupkg.sha512",
+    "/home/rafael/.nuget/packages/microsoft.identitymodel.tokens/6.7.1/microsoft.identitymodel.tokens.6.7.1.nupkg.sha512",
+    "/home/rafael/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/home/rafael/.nuget/packages/prometheus-net/4.2.0/prometheus-net.4.2.0.nupkg.sha512",
+    "/home/rafael/.nuget/packages/prometheus-net.aspnetcore/4.2.0/prometheus-net.aspnetcore.4.2.0.nupkg.sha512",
+    "/home/rafael/.nuget/packages/prometheus-net.dotnetruntime/4.1.0/prometheus-net.dotnetruntime.4.1.0.nupkg.sha512",
+    "/home/rafael/.nuget/packages/swashbuckle.aspnetcore/5.6.3/swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "/home/rafael/.nuget/packages/swashbuckle.aspnetcore.swagger/5.6.3/swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "/home/rafael/.nuget/packages/swashbuckle.aspnetcore.swaggergen/5.6.3/swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "/home/rafael/.nuget/packages/swashbuckle.aspnetcore.swaggerui/5.6.3/swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512",
+    "/home/rafael/.nuget/packages/system.identitymodel.tokens.jwt/6.7.1/system.identitymodel.tokens.jwt.6.7.1.nupkg.sha512",
+    "/home/rafael/.nuget/packages/system.security.cryptography.cng/4.5.0/system.security.cryptography.cng.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
