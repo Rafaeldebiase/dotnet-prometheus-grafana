@@ -9,7 +9,7 @@ namespace prometheusPoc.Controllers
 {
     [ApiController]
     [Route("[controller]")]
-    public class HelloControler : ControllerBase
+    public class HelloController : ControllerBase
     {
         [HttpGet]
         public string GetHello()
